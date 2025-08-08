@@ -37,7 +37,7 @@ cd web-viewer
 pnpm start
 ```
 
-Both apps will start their respective development servers. Follow any additional instructions in their individual README files if needed.
+_**DO NOT**_ start both apps at the same time since they will conflict
 
 ---
 
